@@ -1,0 +1,29 @@
+{
+  "user": {
+    "id": "jBWMVGjm50l6LGwepDoty",
+    "username": "frontendmaster"
+  },
+  "pet": [
+    {
+      "id": "CrbaDks4P2m2pFuEeGsyZ",
+      "createdAt": 1625044984038,
+      "name": "Test1",
+      "type": "DOG",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "no7wRqazRnO2qJ-rAd9Z4",
+      "createdAt": 1625045079279,
+      "name": "Hello2",
+      "type": "DOG",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "VVVypPC60MPKIVj3XmuqJ",
+      "createdAt": 1625061261002,
+      "name": "55",
+      "type": "CAT",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    }
+  ]
+}
